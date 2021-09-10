@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,MAAM,EAAE,CAAC;EACT,KAAK,EAAC,IAAI;EACV,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,IAAI;CACjB",
-    "sources": [
-        "ifame.scss"
-    ],
-    "names": [],
-    "file": "ifame.css"
-}
